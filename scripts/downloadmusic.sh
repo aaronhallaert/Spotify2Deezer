@@ -3,7 +3,7 @@
 # $1 = spotify url
 
 # convert spotify to deezer url('s) --> downloadLinks.txt
-node ~/SpotifyDeezerConverter/app-spot.js $1
+node ~/Spotify2Deezer/app.js $1
 wait
 
 # copy the generated downloadLinks.txt file to the music folder
