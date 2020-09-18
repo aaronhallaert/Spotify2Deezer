@@ -1,0 +1,16 @@
+# app settings
+SpotifyConfig.json
+
+# output
+downloadFormatted.txt
+notFoundTracks.txt
+downloadLinks.txt
+
+# environment and editor
+.vscode
+.vimspector.json
+prettier.config.js
+
+# node
+node_modules
+
